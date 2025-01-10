@@ -10,7 +10,7 @@ const images = [
     alt: 'Diagnóstico eletrônico'
   },
   {
-    url: '/multimetro',
+    url: '/multimetro.jpg',
     alt: 'Serviço especializado'
   },
   {
@@ -22,7 +22,7 @@ const images = [
     alt: 'Chicote completo'
   },
   {
-    url: '/equipe',
+    url: '/equipe.jpg',
     alt: 'Instalação de acessórios'
   }
 ];
