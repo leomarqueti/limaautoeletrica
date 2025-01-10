@@ -2,11 +2,11 @@ import React from 'react';
 
 const images = [
   {
-    url: 'src/elevador.jpg',
+    url: '/elevador.jpg',
     alt: 'Oficina moderna'
   },
   {
-    url: 'src/diagnostico.jpg',
+    url: '/diagnostico.jpg',
     alt: 'Diagnóstico eletrônico'
   },
   {
@@ -14,11 +14,11 @@ const images = [
     alt: 'Serviço especializado'
   },
   {
-    url: 'src/osciloscopio.jpg',
+    url: '/osciloscopio.jpg',
     alt: 'Equipamentos modernos'
   },
   {
-    url: 'src/chicote completo.jpg',
+    url: '/chicote completo.jpg',
     alt: 'Chicote completo'
   },
   {
