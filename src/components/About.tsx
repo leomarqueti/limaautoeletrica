@@ -33,7 +33,7 @@ const About = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
           <div className="relative h-[400px] rounded-lg overflow-hidden">
             <img
-              src="src/lima-auto-eletrica.jpg"
+              src="/lima-auto-eletrica.jpg"
               alt="Fachada da Lima Auto Elétrica"
               className="w-full h-full object-cover"
             />

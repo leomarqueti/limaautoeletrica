@@ -2,27 +2,27 @@ import React from 'react';
 
 const images = [
   {
-    url: 'src/elevador.jpg',
+    url: '/elevador.jpg',
     alt: 'Oficina moderna'
   },
   {
-    url: 'src/diagnostico.jpg',
+    url: '/diagnostico.jpg',
     alt: 'Diagnóstico eletrônico'
   },
   {
-    url: 'https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
+    url: '/multimetro',
     alt: 'Serviço especializado'
   },
   {
-    url: 'src/osciloscopio.jpg',
+    url: '/osciloscopio.jpg',
     alt: 'Equipamentos modernos'
   },
   {
-    url: 'src/chicote completo.jpg',
+    url: '/chicote completo.jpg',
     alt: 'Chicote completo'
   },
   {
-    url: 'https://images.unsplash.com/photo-1504222490345-c075b6008014?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
+    url: '/equipe',
     alt: 'Instalação de acessórios'
   }
 ];
